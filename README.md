@@ -36,14 +36,6 @@ All deliverables are included in the Excel file:
 
 GA4 Measurement Plan – Italo Treno (Case Study).xlsx
 
-Repository Structure
-GA4-Implementation-Case-Study/
-
-│
-├── README.md
-│
-└── GA4_Measurement_Plan.xlsx
-
 ## Tools & Technologies
 
 Google Analytics 4 (GA4)
