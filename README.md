@@ -1,4 +1,4 @@
-#GA4 Implementation Case Study
+# GA4 Implementation Case Study
 ## Project Overview
 
 This project presents a Google Analytics 4 (GA4) implementation case study focused on designing a measurement framework for Italo Treno's digital ecosystem.
