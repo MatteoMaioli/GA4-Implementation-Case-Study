@@ -38,11 +38,11 @@ GA4 Measurement Plan – Italo Treno (Case Study).xlsx
 
 ## Tools & Technologies
 
-Google Analytics 4 (GA4)
-Microsoft Excel
-Digital Analytics Frameworks
-KPI Definition
-Event Tracking Strategy
+- Google Analytics 4 (GA4)
+- Microsoft Excel
+- Digital Analytics Frameworks
+- KPI Definition
+- Event Tracking Strategy
 
 ## Note
 
