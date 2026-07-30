@@ -44,7 +44,7 @@ Digital Analytics Frameworks
 KPI Definition
 Event Tracking Strategy
 
-##Note
+## Note
 
 This project represents a GA4 implementation case study.
 The measurement plan and tracking strategy are designed from a business perspective and do not rely on real GA4 production data.
